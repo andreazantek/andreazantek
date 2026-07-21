@@ -3,6 +3,11 @@ permalink: /courses/
 title: "Courses"
 ---
 
+University of Minnesota Relevant Courses:
+- STAT 5101: Theory of Statistics I
+- STAT 5421: Analysis of Categorical Data
+- DSCI 8970: Data Science M.S. Colloquium 
+
 Lawrence University Relevant Courses: 
 
 - STAT255: Statistics for Data Science
