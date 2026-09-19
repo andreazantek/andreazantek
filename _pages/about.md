@@ -7,7 +7,7 @@ ABOUT ME:
 
 My name is Andrea and I am currently a Real Estate Data Analyst at UnitedHealth Group. In my role, I frequently use Python, Excel, Power BI, Tableau, and ArcGIS to tell stories with data and help inform decisions. 
 
-I am also pursing a Master's in Data Science at the University of Minnesota - Twin Cities, where I am continuing to strengthen my skills in machine learning, statistics, and computer science. 
+I am also pursing a Master's in Data Science at the University of St. Thomas, where I am building experience in machine learning, statistics, and computer science. 
 
 BACKGROUND:
 
