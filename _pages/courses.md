@@ -3,7 +3,10 @@ permalink: /courses/
 title: "Courses"
 ---
 
-University of Minnesota Relevant Courses:
+University of St. Thomas Courses:
+- SEIS 603: Foundations of Python I
+
+University of Minnesota Courses:
 - STAT 5101: Theory of Statistics I
 - STAT 5421: Analysis of Categorical Data
 - DSCI 8970: Data Science M.S. Colloquium 
